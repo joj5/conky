@@ -15,4 +15,5 @@
 <br>
 
 *Conky Preview*
-![lsp autocompletion](./screenshots/conky.png?raw=true)
+<br>
+![conky preview](./screenshots/conky.png?raw=true)
